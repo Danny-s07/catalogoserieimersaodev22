@@ -2,8 +2,11 @@
 Site criado durante a imersao dev 2022 da alura
 
 Onde é possivel fazer as seguintes ações
+<br>
 1- Digitar o nome da serie num campo e ele retorna a capa da serie e alguns dados da mesma e tambem existe o botão de remover caso queira remover essa busca.
+<br>
 2- Possivel inserir um link de trailher num campo e é exibido na tela
+<br>
 3- As capas das series ja pré carregadas quando clicado gera o trailher tambem em tela e existe a opção de remove-las tambem
 
 
