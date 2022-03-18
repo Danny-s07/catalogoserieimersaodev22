@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>CodePen - SeriesFlix v1- ID3 - imagem, tentando por nome embaixo , e link e digitanome,combtremovertb</title>
+  <link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<body>
+  <div class="container">
+    <h1 class="page-title">
+      Serieflix
+    </h1>
+    <img src="https://www.alura.com.br/assets/img/imersoes/dev-2021/logo-imersao-aluraflix.svg" class="page-logo" alt="">
+  </div>
+  <a href="https://alura.com.br/" target="_blank">
+    <img src="https://www.alura.com.br/assets/img/home/alura-logo.svg" alt="" class="alura-logo">
+  </a>
+  <h1 class="aviso" id="recado"> </h1>
+  <p class="page-subtitle">
+    Veja sua serie favorita...
+  </p>
+
+  <div class="form-wrapper">
+    <input type="text" id="serie-imagem" name="serie" placeholder="Digite o nome da Serie">
+    <button class="decobt" onClick="AdicionarSerie()">Adicionar Capa Serie</button>
+    <input type="text" id="serie" name="serie" placeholder="link do youtube">
+    <button class="decobt" onClick="trailerUsuario()">Assistir Serie</button>
+
+  </div>
+  <div id="listaCapas"></div>
+  <div id="trailer"></div>
+  <div id="trailer1"></div>
+  <!-- <iframe width='400' height='200' id="ifr"></iframe> -->
+
+  <div id="listaSerie"></div>
+  <div id="imcp"></div>
+
+  <script src="https://code.jquery.com/jquery-1.12.3.js" integrity="sha256-1XMpEtA4eKXNNpXcJ1pmMPs8JV+nwLdEqwiJeCQEkyc=" crossorigin="anonymous"></script>
+
+</body>
+<footer class="rodape">
+
+  <div class="copyright">&copy; Copyright 2022 - Desenvolvido por : Danny Salles </div>
+
+</footer>
+<!-- partial -->
+  <script  src="./script.js"></script>
+
+</body>
+</html>
