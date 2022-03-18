@@ -10,5 +10,10 @@ Onde é possivel fazer as seguintes ações
 3- As capas das series ja pré carregadas quando clicado gera o trailher tambem em tela e existe a opção de remove-las tambem
 
 
-# Algumas Observações
-# Feito apenas para estudos e essa é uma versão melhorada do repositorio imersaodev20
+<h3>Algumas Observações</h3>
+<h3> Feito apenas para estudos e essa é uma versão melhorada do repositorio imersaodev20 </h3>
+
+
+# Tela do projeto
+![image](https://user-images.githubusercontent.com/97040972/158997837-47b1fca9-5098-4565-84f1-9c2b9217e9b4.png)
+
