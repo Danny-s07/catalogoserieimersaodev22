@@ -11,7 +11,10 @@ Onde é possivel fazer as seguintes ações
 
 
 <h3>Algumas Observações</h3>
-<h3> Feito apenas para estudos e essa é uma versão melhorada do repositorio imersaodev20 </h3>
+<h3> Feito apenas para estudos e essa é uma versão melhorada do repositorio imersaodev20 
+<br>
+  Algumas configurações deste projeto estão off infelizmente....
+</h3>
 
 
 # Tela do projeto
