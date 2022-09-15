@@ -13,7 +13,8 @@ Onde é possivel fazer as seguintes ações
 <h3>Algumas Observações</h3>
 <h3> Feito apenas para estudos e essa é uma versão melhorada do repositorio imersaodev20 
 <br>
-  Algumas configurações deste projeto estão off infelizmente....
+ A configuração de remover a serie inserida estava funcionando com uma configuração de api antiga, porem foi preciso atualizar essa configuração de api para voltar a ser inserido a serie com isso apenas o botão remover serie não esta mais funcinando.
+ O restante das outras funcionalidades como inserir serie, remover serie previamente listada, e os trailher inseridos a partir de link ou clicados em capa das series previamente carregadas estao funcionando.
 </h3>
 
 
